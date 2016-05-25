@@ -6,7 +6,7 @@ This is what i have to do today
 * shascc3 rna extract
 
 start!
-## "date"
+## 14:21
 Check sonication by gel
 RLT buffer shASCC3 cells
 
